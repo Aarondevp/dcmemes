@@ -1,7 +1,7 @@
 {
-  "name": "memecord",
+  "name": "memeiol",
   "version": "1.0.0",
-  "description": "",
+  "description": "a meme package",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,9 +10,19 @@
     "Memes",
     "Dankmemer"
   ],
-  "author": "toxicity(dev",
+  "author": "toxicity",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.21.1"
-  }
+    "axios": "^0.21.1",
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aarondevp/dcmemes.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Aarondevp/dcmemes/issues"
+  },
+  "homepage": "https://github.com/Aarondevp/dcmemes#readme"
 }
